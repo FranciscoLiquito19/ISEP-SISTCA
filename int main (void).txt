@@ -1,0 +1,8 @@
+int main (void)
+{
+    for(int i=0; i<10; i++){
+        printf("counting %d", i);
+    }
+    printf("--END--");
+    return 0;
+}s
